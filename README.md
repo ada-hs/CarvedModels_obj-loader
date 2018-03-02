@@ -7,7 +7,7 @@
 Intro:
 
 - This demo is used to load 3D obj models in webpage 
-- rely on the [Three.js](https://threejs.org/)
+- Rely on the [Three.js](https://threejs.org/)
 - You can run it by Webstorm or other IDE for web 
 
 Thanks!
